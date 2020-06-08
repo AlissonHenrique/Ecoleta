@@ -84,7 +84,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Expo][expo]
 - [Node.js][nodejs]
 - [React][reactjs]
-- [React Native][rn]
 - [TypeScript][typescript]
 
 
@@ -93,7 +92,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Podemos considerar este projeto como sendo divido em três partes:
 1. Back End (pasta server) 
 2. Front End (pasta web)
-3. Mobile (pasta mobile)
 
 💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
 
@@ -149,20 +147,13 @@ $ npm run start
 
 🚧 Em construção... 🚧
 
-## 😯 Como contribuir para o projeto
-
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
 
 ## 📝 Licença
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](license) para saber mais.
 
-Feito com ❤️ por Leonardo Carvalho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardo-dev/)
+Feito com ❤️ por Alisson Henrique 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alissonhenri/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
