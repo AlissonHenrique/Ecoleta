@@ -6,27 +6,6 @@
 	🚧 NextLevelWeek 1.0 🚀 em construção... 🚧
 </h4>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leon-carvalho/Ecoleta?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leon-carvalho/Ecoleta">
-
-  	
-  <a href="https://www.linkedin.com/in/leonardo-dev/">
-    <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/made%20by-leon--carvalho-%2304D361">
-  </a>
-	
-  
-  <a href="https://github.com/leon-carvalho/Ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leon-carvalho/Ecoleta">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/leon-carvalho/Ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leon-carvalho/Ecoleta?style=social">
-  </a>
-</p>
-
 
 ## 💻 Sobre o projeto
 
@@ -57,7 +36,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 O layout da aplicação está disponível no Figma:
 
 <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img  src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
 
@@ -105,7 +84,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/Ecoleta
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Ecoleta
@@ -126,7 +104,6 @@ $ npm run dev:server
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/Ecoleta
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd Ecoleta
@@ -146,7 +123,6 @@ $ npm run start
 ### 📱Rodando a aplicação mobile 
 
 🚧 Em construção... 🚧
-
 
 
 ## 📝 Licença
